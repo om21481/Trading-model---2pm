@@ -9,3 +9,15 @@ Why 3 pm setup -- This is a major time when option/futures buyers and sellers ar
 I created a DL model that can tell the aggressiveness of markets at the time range of 2:45 - 3:00 and it should be applied when a doji(indecision) candle is formed and it predicts whether a trade should be taken or not.
 
 For the Deep Learning model, I have used ANN along with principal component analysis(PCA) with data cleaning and data handling techniques 
+
+
+
+
+
+
+
+
+
+
+when there is momentum markets always move in one direction without disguising
+So we trained the model according to binary classification and used SMOTE for data imbalance
