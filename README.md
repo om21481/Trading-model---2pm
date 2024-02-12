@@ -14,6 +14,7 @@ Secondly, we will create a straddle whenever it tells us, whether trade should b
 
 Straddle -- First of all, it makes delta neutral and we try to play in Vega.
 
+# Model Description
 For the Deep Learning model, I have used ANN along with principal component analysis(PCA) with data cleaning and data handling techniques. For synthetic data generation and class imbalance, I used SMOTE and various techniques.
 
 
